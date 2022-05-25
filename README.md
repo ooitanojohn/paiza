@@ -15,4 +15,12 @@ paizaでの文字列処理系のリンク
 ## 文字列検索時
 - ### strpos
    - [検索した文字列が一文字目にあった場合の分岐](https://qiita.com/kazu56/items/2c72d187438de07c2503)
+     - !=にすると全然違う式になる
 
+
+## 再帰関数
+  - [繰り返しの中で記録したい](https://qiita.com/drken/items/23a4f604fa3f505dd5ad#fn1)
+  -
+
+## ソート
+  - [そのうち...](https://qiita.com/drken/items/44c60118ab3703f7727f#0-%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)
